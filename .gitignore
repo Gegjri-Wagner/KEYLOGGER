@@ -8,3 +8,5 @@ logs.txt
 
 #Файлы сборки 
 build/
+
+.vscode/
